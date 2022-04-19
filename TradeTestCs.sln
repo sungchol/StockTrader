@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1267
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TradeTestCs", "TradeTestCs\TradeTestCs.csproj", "{2D95964B-9261-45CC-ABE6-1C1EDE6403AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D95964B-9261-45CC-ABE6-1C1EDE6403AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D95964B-9261-45CC-ABE6-1C1EDE6403AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D95964B-9261-45CC-ABE6-1C1EDE6403AD}.Debug|x64.ActiveCfg = Debug|x64
+		{2D95964B-9261-45CC-ABE6-1C1EDE6403AD}.Debug|x64.Build.0 = Debug|x64
+		{2D95964B-9261-45CC-ABE6-1C1EDE6403AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D95964B-9261-45CC-ABE6-1C1EDE6403AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D95964B-9261-45CC-ABE6-1C1EDE6403AD}.Release|x64.ActiveCfg = Release|x64
+		{2D95964B-9261-45CC-ABE6-1C1EDE6403AD}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D8EDDD8-8656-4CD4-A0D5-66E1DCC5D5E1}
+	EndGlobalSection
+EndGlobal
